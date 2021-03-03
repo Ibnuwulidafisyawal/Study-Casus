@@ -1,14 +1,16 @@
 <DOCTYPE html>
     <html>
         <head>
-            <title>Study Casus Pak Acep</title>
-            <td><h2>Study Casus Pak Acep</h2></td>
+            <title>Algoritma Dan php</title>
+            <td><h2>Penerapan Algoritma Pada Bahasa Pemrograman PHP oleh Ibnu</h2></td>
         </head>
 <hr>
 
         <body>
+            <td><h3>Peserta Didik SMK Wikrama Bogor</h3></td>
+            <td><h3>Kompentensi Keahlian Rekayasa Perangkat Lunak</h3></td>
             <li><a href="menentukan-klulsan-siswa.php">Menentukan Kelulusan Siswa</a></li>
-            <li><a href="menghitung-keliling-lingkaran.php">Mengitung Keliling Lingkaran</a></li>
+            <li><a href="menghitung-keliling-lingkaran.php">Menghitung Keliling Lingkaran</a></li>
             <li><a href="menghitung-keliling-prsgi-yg-dik-luas.php">Menghitung Keliling Persegi Yang Diketahui Luas</a></li>
             <li><a href="menghitung-luas-persegi-panjang.php">Mengitung Luas Persegi Panjang</a></li>
             <li><a href="menghitung-luas-segitiga.php">Menghitung Luas Segitiga</a></li>

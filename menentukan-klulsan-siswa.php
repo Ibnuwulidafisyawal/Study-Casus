@@ -10,12 +10,12 @@
         <hr>
 
     <body>
-       <form action="" method="POST">
+       <form method="POST" netlify>
     
     <div>
         <label><b>Nama : </b></label>
         <input type="text" name="nama" placeholder="Masukkan nama">
-    </div>
+    </div>     
 
     <div>
         <label><b>Nilai : </b></label>
@@ -33,9 +33,6 @@
 
 
 <?php 
-
-
-
 
 $nama=@$_POST['nama'];
 $nilai=@$_POST['number'];

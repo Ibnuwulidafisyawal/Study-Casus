@@ -10,12 +10,12 @@
         <hr>
 
     <body>
-       <form method="POST" netlify>
+       <form action="netlify" method="POST">
     
     <div>
         <label><b>Nama : </b></label>
         <input type="text" name="nama" placeholder="Masukkan nama">
-    </div>     
+    </div>    
 
     <div>
         <label><b>Nilai : </b></label>
